@@ -1,0 +1,4 @@
+fortune.first=Lo vas a lograr!
+fortune.second=Hoy es el mejor dia para intentar
+fortune.third=Si dios quiere
+fourth=Dale paliza!
